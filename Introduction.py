@@ -1,1 +1,1 @@
-print("This is introduction. In this video course teacher teach basic knowledge")
+print("This is introduction. In this video course instructor teach basic knowledge")
